@@ -1,0 +1,23 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment folders
+env/
+venv/
+new-env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# IDEs
+.idea/
+.vscode/
+
+# Raw JSON data files
+data/*.json
+
+# OS-specific files
+.DS_Store
+Thumbs.db
